@@ -1,0 +1,13 @@
+p{
+    background-color: rgb(211, 65, 65);
+    width: 60%;
+    margin: 15px auto;
+    padding: 15px;
+    color: rgb(222, 218, 218);
+}
+
+h1{
+    font-family:cursive;
+    padding: 10px;
+    text-align: center;
+}
